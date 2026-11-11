@@ -1,0 +1,23 @@
+month,geo_id,soc_major_code,occupation_group,claude_usage_share_pct,automation_pct,augmentation_pct,human_only_estimated_hours,with_ai_estimated_minutes,estimated_time_saved_pct_from_means
+2026-05,GLOBAL,11,Management,5.9000,43.9000,56.1000,6.5000,47.7400,87.7590
+2026-05,GLOBAL,13,Business and Financial Operations,5.7700,42.6100,57.3900,6.3400,42.5700,88.8091
+2026-05,GLOBAL,15,Computer and Mathematical,23.8000,63.9000,36.1000,5.3500,41.7600,86.9907
+2026-05,GLOBAL,17,Architecture and Engineering,3.5600,44.8900,55.1100,5.6300,49.9600,85.2102
+2026-05,GLOBAL,19,"Life, Physical, and Social Science",4.5100,40.4600,59.5400,5.4300,47.4600,85.4328
+2026-05,GLOBAL,21,Community and Social Service,2.5700,40.0100,59.9900,3.7700,85.9300,62.0115
+2026-05,GLOBAL,23,Legal,1.0200,34.5700,65.4300,6.3100,51.6800,86.3497
+2026-05,GLOBAL,25,Educational Instruction and Library,12.7900,42.7700,57.2300,4.7000,33.6200,88.0780
+2026-05,GLOBAL,27,"Arts, Design, Entertainment, Sports, and Media",13.5500,35.8500,64.1500,4.9700,43.3000,85.4795
+2026-05,GLOBAL,29,Healthcare Practitioners and Technical,3.3100,41.6200,58.3800,2.5200,42.4800,71.9048
+2026-05,GLOBAL,31,Healthcare Support,0.6200,39.0800,60.9200,1.3300,23.2900,70.8145
+2026-05,GLOBAL,33,Protective Service,0.3300,73.5800,26.4200,1.7500,13.9400,86.7238
+2026-05,GLOBAL,35,Food Preparation and Serving Related,0.4800,49.1300,50.8700,1.6300,18.0100,81.5849
+2026-05,GLOBAL,37,Building and Grounds Cleaning and Maintenance,0.1300,47.0600,52.9400,5.1700,42.0200,86.4539
+2026-05,GLOBAL,39,Personal Care and Service,1.2300,55.8700,44.1300,2.2100,21.0300,84.1403
+2026-05,GLOBAL,41,Sales and Related,9.1400,43.7900,56.2100,2.4800,30.1700,79.7245
+2026-05,GLOBAL,43,Office and Administrative Support,7.8900,56.0200,43.9800,4.2800,25.0100,90.2609
+2026-05,GLOBAL,45,"Farming, Fishing, and Forestry",0.0400,65.0700,34.9300,1.4100,16.6600,80.3073
+2026-05,GLOBAL,47,Construction and Extraction,0.1000,66.2100,33.7900,3.0400,25.3900,86.0800
+2026-05,GLOBAL,49,"Installation, Maintenance, and Repair",0.6200,69.4400,30.5600,2.6400,28.5500,81.9760
+2026-05,GLOBAL,51,Production,1.0400,63.7200,36.2800,5.2600,62.4500,80.2123
+2026-05,GLOBAL,53,Transportation and Material Moving,0.3400,51.7400,48.2600,2.6300,26.2800,83.3460
