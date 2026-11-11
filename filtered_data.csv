@@ -1,0 +1,23 @@
+month,geo_id,soc_major_code,occupation_group,claude_usage_share_pct,automation_pct,augmentation_pct,human_only_estimated_hours,with_ai_estimated_minutes,estimated_time_saved_pct_from_means
+2026-05,GLOBAL,11,Management,5.90,43.90,56.10,6.50,47.74,87.7590
+2026-05,GLOBAL,13,Business and Financial Operations,5.77,42.61,57.39,6.34,42.57,88.8091
+2026-05,GLOBAL,15,Computer and Mathematical,23.80,63.90,36.10,5.35,41.76,86.9907
+2026-05,GLOBAL,17,Architecture and Engineering,3.56,44.89,55.11,5.63,49.96,85.2102
+2026-05,GLOBAL,19,"Life, Physical, and Social Science",4.51,40.46,59.54,5.43,47.46,85.4328
+2026-05,GLOBAL,21,Community and Social Service,2.57,40.01,59.99,3.77,85.93,62.0115
+2026-05,GLOBAL,23,Legal,1.02,34.57,65.43,6.31,51.68,86.3497
+2026-05,GLOBAL,25,Educational Instruction and Library,12.79,42.77,57.23,4.70,33.62,88.0780
+2026-05,GLOBAL,27,"Arts, Design, Entertainment, Sports, and Media",13.55,35.85,64.15,4.97,43.30,85.4795
+2026-05,GLOBAL,29,Healthcare Practitioners and Technical,3.31,41.62,58.38,2.52,42.48,71.9048
+2026-05,GLOBAL,31,Healthcare Support,0.62,39.08,60.92,1.33,23.29,70.8145
+2026-05,GLOBAL,33,Protective Service,0.33,73.58,26.42,1.75,13.94,86.7238
+2026-05,GLOBAL,35,Food Preparation and Serving Related,0.48,49.13,50.87,1.63,18.01,81.5849
+2026-05,GLOBAL,37,Building and Grounds Cleaning and Maintenance,0.13,47.06,52.94,5.17,42.02,86.4539
+2026-05,GLOBAL,39,Personal Care and Service,1.23,55.87,44.13,2.21,21.03,84.1403
+2026-05,GLOBAL,41,Sales and Related,9.14,43.79,56.21,2.48,30.17,79.7245
+2026-05,GLOBAL,43,Office and Administrative Support,7.89,56.02,43.98,4.28,25.01,90.2609
+2026-05,GLOBAL,45,"Farming, Fishing, and Forestry",0.04,65.07,34.93,1.41,16.66,80.3073
+2026-05,GLOBAL,47,Construction and Extraction,0.10,66.21,33.79,3.04,25.39,86.0800
+2026-05,GLOBAL,49,"Installation, Maintenance, and Repair",0.62,69.44,30.56,2.64,28.55,81.9760
+2026-05,GLOBAL,51,Production,1.04,63.72,36.28,5.26,62.45,80.2123
+2026-05,GLOBAL,53,Transportation and Material Moving,0.34,51.74,48.26,2.63,26.28,83.3460
